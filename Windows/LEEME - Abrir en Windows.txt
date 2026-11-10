@@ -1,0 +1,62 @@
+═══════════════════════════════════════════════════════════════
+  ACTION EVENTOS · Powered by CROODY
+  Cómo abrirlo en Windows (1 minuto, sin instalar nada)
+═══════════════════════════════════════════════════════════════
+
+Action EventOS es UN SOLO programa. No instala nada, no necesita
+internet. Corre en tu PC y los celulares se conectan por tu WiFi.
+
+──────────────────────────────────────────────────────────────
+PASO 1 — Ponlo en una carpeta
+──────────────────────────────────────────────────────────────
+Copia "ActionEventOS.exe" a una carpeta tuya
+(por ejemplo: Escritorio\ActionEventOS).
+
+──────────────────────────────────────────────────────────────
+PASO 2 — Ábrelo (doble clic)
+──────────────────────────────────────────────────────────────
+Windows puede mostrar una pantalla azul que dice:
+   "Windows protegió tu PC"
+Esto es NORMAL: aparece porque el programa es nuevo (no está
+firmado todavía), NO porque sea peligroso.
+
+   → Haz clic en  "Más información"
+   → Luego en     "Ejecutar de todas formas"
+
+──────────────────────────────────────────────────────────────
+PASO 3 — Permite la red (si lo pide)
+──────────────────────────────────────────────────────────────
+Si Windows pregunta por el Firewall, marca
+"Redes privadas" y haz clic en "Permitir acceso".
+(Es para que los celulares de tu equipo entren por el WiFi.)
+
+──────────────────────────────────────────────────────────────
+PASO 4 — Ya está corriendo
+──────────────────────────────────────────────────────────────
+Se abre una ventana negra con DOS códigos QR y sus direcciones:
+
+   • STAFF (privado)  → para cajeros/meseros. NO lo compartas
+                        con los clientes. Llevan una llave secreta;
+                        para otros dispositivos la consola "no existe".
+   • CLIENTES (público) → proyéctalo o imprímelo; los asistentes
+                          lo escanean para pedir desde su celular.
+
+También se abre el navegador en la consola de gestión.
+Entra con:   usuario  action     contraseña  croody
+(Cámbiala luego en Administración → Operadores.)
+
+──────────────────────────────────────────────────────────────
+PARA LOS CELULARES
+──────────────────────────────────────────────────────────────
+Que estén en el MISMO WiFi que la PC. Escanean el QR que
+corresponda (staff o cliente). Listo.
+
+──────────────────────────────────────────────────────────────
+PARA CERRAR
+──────────────────────────────────────────────────────────────
+Cierra la ventana negra. Al salir hace un respaldo automático;
+tus datos quedan guardados para la próxima vez.
+
+──────────────────────────────────────────────────────────────
+¿Dudas? Escríbenos. — CROODY
+═══════════════════════════════════════════════════════════════

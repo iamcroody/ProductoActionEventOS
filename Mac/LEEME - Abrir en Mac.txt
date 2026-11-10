@@ -1,0 +1,61 @@
+═══════════════════════════════════════════════════════════════
+  ACTION EVENTOS · Powered by CROODY
+  Cómo abrirlo en Mac (1 minuto, sin instalar nada)
+═══════════════════════════════════════════════════════════════
+
+Action EventOS es UN SOLO programa. No instala nada, no necesita
+internet. Corre en tu Mac y los celulares se conectan por tu WiFi.
+
+Como es un programa nuevo (todavía sin firma de Apple), macOS pide
+un permiso la PRIMERA vez. Es normal, no es peligroso.
+
+──────────────────────────────────────────────────────────────
+PASO 1 — Pon el programa en una carpeta
+──────────────────────────────────────────────────────────────
+Copia el archivo "ActionEventOS" a una carpeta tuya
+(por ejemplo, el Escritorio).
+
+──────────────────────────────────────────────────────────────
+PASO 2 — Ábrelo desde la Terminal (lo más confiable)
+──────────────────────────────────────────────────────────────
+1) Abre la app "Terminal" (Cmd + Espacio, escribe "Terminal", Enter).
+2) Escribe  cd   seguido de un espacio, y ARRASTRA la carpeta donde
+   pusiste el programa a la ventana de Terminal. Presiona Enter.
+3) Copia y pega estas tres líneas (una por una, Enter en cada una):
+
+      xattr -d com.apple.quarantine ./ActionEventOS
+      chmod +x ./ActionEventOS
+      ./ActionEventOS
+
+   (La primera quita el bloqueo de "programa de internet", la
+    segunda lo marca como ejecutable, la tercera lo arranca.)
+
+──────────────────────────────────────────────────────────────
+PASO 3 — Ya está corriendo
+──────────────────────────────────────────────────────────────
+La Terminal muestra DOS códigos QR y sus direcciones:
+
+   • STAFF (privado)  → para cajeros/meseros. NO lo compartas con
+                        los clientes (lleva una llave secreta).
+   • CLIENTES (público) → proyéctalo o imprímelo; los asistentes
+                          lo escanean para pedir desde su celular.
+
+Abre el navegador en la dirección de GESTIÓN que aparece y entra con:
+      usuario  action      contraseña  croody
+(Cámbiala luego en Administración → Operadores.)
+
+──────────────────────────────────────────────────────────────
+PARA LOS CELULARES
+──────────────────────────────────────────────────────────────
+Que estén en el MISMO WiFi que el Mac. Escanean el QR que
+corresponda (staff o cliente). Listo.
+
+──────────────────────────────────────────────────────────────
+PARA CERRAR
+──────────────────────────────────────────────────────────────
+En la Terminal presiona Ctrl + C. Al salir hace un respaldo
+automático; tus datos quedan guardados para la próxima vez.
+
+──────────────────────────────────────────────────────────────
+¿Dudas? Escríbenos. — CROODY
+═══════════════════════════════════════════════════════════════
